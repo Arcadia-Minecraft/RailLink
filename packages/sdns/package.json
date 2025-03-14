@@ -1,0 +1,11 @@
+{
+  "name": "@raillink/sdns",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "tstl": "^3.0.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
