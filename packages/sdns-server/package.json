@@ -1,0 +1,14 @@
+{
+  "name": "@raillink/sdns-server",
+  "module": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "@raillink/sdns-common": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

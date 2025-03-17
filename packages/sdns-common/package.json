@@ -1,8 +1,10 @@
 {
-  "name": "@raillink/sdns",
+  "name": "@raillink/sdns-common",
   "module": "index.ts",
   "type": "module",
+  "entry": "src/index.ts",
   "devDependencies": {
+    "@types/bun": "latest",
     "tstl": "^3.0.0"
   },
   "peerDependencies": {
